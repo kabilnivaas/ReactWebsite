@@ -1,5 +1,4 @@
 Hi, I'm Kabil Nivaas. This is the documentation for the given code. Kindly go through it.
-### Infollion Component Documentation (Short Version)
 
 This component allows users to create a nested questionnaire with support for "Short Answer" and "True/False" question types. Once submitted, a modal popup displays all the questions.
 

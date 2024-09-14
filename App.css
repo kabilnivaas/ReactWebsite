@@ -1,0 +1,31 @@
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 5px 10px;
+  }
+  
+  .question-block {
+    margin-bottom: 15px;
+  }
+  
+  .children {
+    margin-left: 20px;
+  }
+  
+  .submit-button {
+    margin-top: 20px;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #45a049;
+  }
+  
